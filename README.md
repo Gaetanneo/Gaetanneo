@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaetanneo
 - 👀 I’m interested in cut of the edge technologies
-- 🌱 I’m currently learning DevOps Tools, Terraform, Ansible, Jenkins, Ansible, Kubernetes, etc...
+- 🌱 I’m currently learning DevOps Tools, Terraform, Ansible, Jenkins, Gitlab, Ansible, Kubernetes, etc...
 - 💞️ I’m looking to collaborate on building Application webservers and business applications
 - 📫 How to reach me ...LinkedIn Only
 
